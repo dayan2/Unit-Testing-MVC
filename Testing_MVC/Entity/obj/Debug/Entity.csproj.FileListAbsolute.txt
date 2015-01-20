@@ -1,0 +1,9 @@
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\Entity.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\Entity.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\obj\Debug\Entity.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\obj\Debug\Entity.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\Entity.dll.config
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entity\bin\Debug\EntityFramework.SqlServer.xml

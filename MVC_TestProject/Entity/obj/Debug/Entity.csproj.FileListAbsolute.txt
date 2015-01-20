@@ -1,0 +1,4 @@
+c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\Entity\bin\Debug\Entity.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\Entity\bin\Debug\Entity.pdb
+c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\Entity\obj\Debug\Entity.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\Entity\obj\Debug\Entity.pdb

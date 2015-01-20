@@ -1,0 +1,14 @@
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\DL.dll.config
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\DL.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\DL.pdb
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\EntityFramework.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\EntityFramework.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\obj\Debug\DL.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\Testing_MVC\DL\obj\Debug\DL.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\DL\bin\Debug\DL - Interface.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\DL\bin\Debug\DL - Interface.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\DL\bin\Debug\Entity.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\DL\bin\Debug\Entity.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entities\bin\Debug\Entities.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entities\bin\Debug\Entities.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entities\obj\Debug\Entities.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entities\obj\Debug\Entities.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\Testing_MVC\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
