@@ -1,7 +1,0 @@
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\bin\Debug\DL - Interface.dll
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\bin\Debug\DL - Interface.pdb
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\bin\Debug\Entity.dll
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\bin\Debug\Entity.pdb
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\obj\Debug\DL - Interface.csprojResolveAssemblyReference.cache
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\obj\Debug\DL - Interface.dll
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\DL - Interface\obj\Debug\DL - Interface.pdb

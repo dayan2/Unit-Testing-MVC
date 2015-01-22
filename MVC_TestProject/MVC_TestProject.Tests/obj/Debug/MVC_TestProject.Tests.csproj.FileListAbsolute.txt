@@ -1,1 +1,0 @@
-c:\users\ewerdney\documents\visual studio 2013\Projects\MVC_TestProject\MVC_TestProject.Tests\obj\Debug\MVC_TestProject.Tests.csprojResolveAssemblyReference.cache
