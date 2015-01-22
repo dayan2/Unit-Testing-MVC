@@ -1,0 +1,28 @@
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\DAL.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\DAL.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\Entity.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\Entity.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\obj\Debug\DAL.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\obj\Debug\DAL.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\DAL - Interface.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL\bin\Debug\DAL - Interface.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\DAL.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\DAL - Interface.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\Entity.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\DAL - Interface.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\Entity.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\obj\Debug\DAL.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL\obj\Debug\DAL.pdb

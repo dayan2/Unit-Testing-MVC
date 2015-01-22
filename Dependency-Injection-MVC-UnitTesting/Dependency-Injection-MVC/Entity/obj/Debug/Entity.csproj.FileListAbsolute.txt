@@ -1,0 +1,19 @@
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\Entity.dll.config
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\Entity.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\Entity.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.xml
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\obj\Debug\Entity.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\Entity\obj\Debug\Entity.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\Entity.dll.config
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\Entity.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\Entity.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\obj\Debug\Entity.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\Entity\obj\Debug\Entity.pdb

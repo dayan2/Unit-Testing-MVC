@@ -1,0 +1,14 @@
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\bin\Debug\DAL - Interface.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\bin\Debug\DAL - Interface.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\bin\Debug\Entity.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\bin\Debug\Entity.pdb
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.dll
+C:\Users\ndmendis\Desktop\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\bin\Debug\DAL - Interface.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\bin\Debug\DAL - Interface.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\bin\Debug\Entity.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\bin\Debug\Entity.pdb
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.dll
+C:\Users\Ewerdney\Desktop\Current Project\Dependency-Injection-MVC\Dependency-Injection-MVC\DAL - Interface\obj\Debug\DAL - Interface.pdb
