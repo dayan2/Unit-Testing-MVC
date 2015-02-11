@@ -1,0 +1,10 @@
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\Data.dll.config
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\Data.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\Data.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\EntityFramework.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\EntityFramework.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\obj\Debug\Data.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\obj\Debug\Data.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
