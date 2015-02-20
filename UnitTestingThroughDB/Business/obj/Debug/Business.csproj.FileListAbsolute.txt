@@ -1,0 +1,10 @@
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\Business.dll.config
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\Business.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\Business.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\EntityFramework.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\EntityFramework.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\obj\Debug\Business.dll
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\obj\Debug\Business.pdb
+C:\Users\Ewerdney\Documents\Visual Studio 2013\Projects\UnitTestingThroughDB\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
